@@ -1,6 +1,6 @@
-streamlit
-tensorflow
-ccxt
-pandas
-numpy
-plotly
+streamlit==1.28.1
+tensorflow==2.13.1
+ccxt==4.0.45
+pandas==2.0.3
+numpy==1.24.3
+plotly==5.17.0
