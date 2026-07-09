@@ -3,4 +3,4 @@ numpy==2.5.1
 pandas==3.0.3
 plotly==6.6.0
 streamlit==1.56.0
-tensorflow==2.21.0
+tensorflow-cpu
